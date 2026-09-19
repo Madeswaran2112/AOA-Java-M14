@@ -32,8 +32,8 @@ The buildings either generate or consume energy. Since the grid is circular, the
 ```java
 /*
 Kadane's Algorithm
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.*;
@@ -89,7 +89,7 @@ The program was successfully implemented using Kadane’s Algorithm and the outp
 
 # EX 4B Frog Jump - Dynamic Programming
 
-## DATE: 20-08-2026
+## DATE: 18-08-2026
 
 ## AIM:
 
@@ -117,8 +117,8 @@ The solution must be implemented using **Dynamic Programming**.
 ```java
 /*
 Frog Jump
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.Scanner;
@@ -160,7 +160,7 @@ If you want, I can prepare **EX 4C, 4D** also.
 
 # EX 4C Coin Change Problem - Dynamic Programming
 
-## DATE: 21-08-2026
+## DATE:18-08-2026
 
 ## AIM:
 
@@ -191,8 +191,8 @@ If the given amount cannot be formed using the available denominations, return *
 ```java
 /*
 Coin Change using Dynamic Programming
-Developed by: Vamsi Krishna G
-Register Number: 2122223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.*;
@@ -255,7 +255,7 @@ If you want **EX 4D** also prepared, just tell me!
 
 # EX 4D Longest Common SubSequence - Dynamic Programming
 
-## DATE: 26-08-2026
+## DATE: 18-08-2026
 
 ## AIM:
 
@@ -283,8 +283,8 @@ To write a Java program to find the length of the **Longest Common Subsequence (
 ```java
 /*
 Program to implement Longest Common SubSequence
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.Scanner;
@@ -334,7 +334,7 @@ The program was successfully implemented using Dynamic Programming and the expec
 
 # EX 4E Longest Increasing Subsequence – Dynamic Programming
 
-## DATE: 27-08-2026
+## DATE: 18-08-2026
 
 ## AIM:
 
@@ -361,8 +361,8 @@ To write a Java program to compute the length of the **Longest Increasing Subseq
 ```java
 /*
 Program to implement Reverse a String
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.*;
