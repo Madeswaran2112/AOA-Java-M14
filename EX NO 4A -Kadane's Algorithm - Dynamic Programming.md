@@ -32,8 +32,8 @@ The buildings either generate or consume energy. Since the grid is circular, the
 ```java
 /*
 Kadane's Algorithm
-Developed by: Vamsi Krishna G
-Register Number: 212223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.*;
