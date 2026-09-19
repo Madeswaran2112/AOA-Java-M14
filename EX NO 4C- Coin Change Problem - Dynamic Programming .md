@@ -1,6 +1,6 @@
 # EX 4C Coin Change Problem - Dynamic Programming
 
-## DATE: 21-08-2026
+## DATE: 18-08-2026
 
 ## AIM:
 
@@ -31,8 +31,8 @@ If the given amount cannot be formed using the available denominations, return *
 ```java
 /*
 Coin Change using Dynamic Programming
-Developed by: Vamsi Krishna G
-Register Number: 2122223220120
+Developed by: MADESWARAN M
+Register Number: 212223040106
 */
 
 import java.util.*;
